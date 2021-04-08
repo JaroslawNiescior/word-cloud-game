@@ -7,7 +7,7 @@ class Result extends React.Component {
     const { userName, points } = this.props;
     return (
       <Container>
-        <h2>{`Congratulations, ${userName}`}</h2>
+        <h2>{`Congratulations, ${userName}!`}</h2>
         <h3>Your score:</h3>
         <StyledPoints>{`${points} points`}</StyledPoints>
       </Container>
