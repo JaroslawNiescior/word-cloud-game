@@ -1,6 +1,6 @@
 ## ONLINE PREVIEW
 
-This project was made public on Vercel! [word-cloud-game](https://word-cloud-game.jaroslawniescior.vercel.app/)
+This project was made public on Vercel! [word-cloud-game](https://word-cloud-game-jaroslawniescior.vercel.app/)
 
 ## Available Scripts
 
