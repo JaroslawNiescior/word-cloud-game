@@ -1,0 +1,8 @@
+export const SIGN_IN = 'SIGN_IN';
+export const SIGN_OUT = 'SIGN_OUT';
+export const FINISH_GAME = 'FINISH_GAME';
+export const SHOW_ANSWERS = 'SHOW_ANSWERS';
+export const FETCH_QUESTIONS = 'FETCH_QUESTIONS';
+export const FETCH_RESULTS = 'FETCH_RESULTS';
+export const INCREMENT_RESULTS = 'INCREMENT_RESULTS';
+export const DECREMENT_RESULTS = 'DECREMENT_RESULTS';
