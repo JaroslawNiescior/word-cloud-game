@@ -32,7 +32,6 @@ export class Answer extends Component {
     const { selected } = this.state;
 
     if (isShowAnswers) {
-      console.log('SEND');
       if (selected && isGood) {
         incrementResultsAction();
       } else if (selected && !isGood) {
